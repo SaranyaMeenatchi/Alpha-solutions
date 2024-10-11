@@ -1,0 +1,21 @@
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  nav {
+    background: #0070f3;
+    padding: 1rem;
+  }
+  
+  nav a {
+    margin-right: 1rem;
+    color: white;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 2rem;
+  }
+  
